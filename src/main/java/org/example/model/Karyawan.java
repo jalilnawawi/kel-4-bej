@@ -6,7 +6,10 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.experimental.Accessors;
 
+import java.util.ArrayList;
 import java.time.LocalDate;
+import java.util.List; // Add this import statement
+
 
 @Setter
 @Getter
